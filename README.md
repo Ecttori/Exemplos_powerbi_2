@@ -1,5 +1,3 @@
-# Exemplos_powerbi_2
-
 # Etapas
 
 - Importado a fonte do arquivo (excel)
